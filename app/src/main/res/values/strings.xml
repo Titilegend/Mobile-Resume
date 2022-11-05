@@ -1,0 +1,26 @@
+    <resources>
+        <string name="app_name">Mobile Resume</string>
+        <string name="name">Titilope Ajayi</string>
+        <string name="Title">Mobile App Developer</string>
+        <string name="about_me">About Me</string>
+        <string name="skills">Skills</string>
+        <string name="skill_one">Android Development(kotlin)</string>
+        <string name="skill_two">Firebase</string>
+        <string name="skill_three">Git/Github</string>
+        <string name="experience">Experience</string>
+        <string name="one">1</string>
+        <string name="two">2</string>
+        <string name="three">3</string>
+        <string name="hng_internship">HNG Internship</string>
+        <string name="hng_track">Mobile Developer Intern</string>
+        <string name="date">Oct 2022 - Till date</string>
+        <string name="description">
+        I am a hardworking Individual with proficiency and passion for mobile app development for android devices.
+            I am seeking a new opportunity that will help me further expand these skills.
+        </string>
+         <string name="landscape_text">
+         I am a hardworking Individual with proficiency and passion for mobile app development
+         for android devices. I am seeking a new opportunity that will help me
+         further expand these skills.</string>
+
+    </resources>

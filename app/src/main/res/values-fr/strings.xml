@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string name="app_name">Mobile Resume</string>
+        <string name="Title">Développeur mobile</string>
+        <string name="about_me">À propos de moi</string>
+        <string name="skills">compétences</string>
+        <string name="skill_one">Développement Android (kotlin)</string>
+        <string name="experience">vivre</string>
+        <string name="hng_track">Stagiaire développeur mobile</string>
+        <string name="date">octobre 2022- Jusqu\'à la date</string>
+        <string name="skill_two">Firebase</string>
+        <string name="skill_three">Git/Github</string>
+        <string name="one">1</string>
+        <string name="two">2</string>
+        <string name="three">3</string>
+        <string name="hng_internship">HNG Internship</string>
+        <string name="landscape_text">
+            Je suis une personne travailleuse avec compétence et passion pour le développement d\'applications mobiles pour Android
+            dispositifs. Je suis à la recherche d\'une nouvelle opportunité qui
+            aidez-moi à développer davantage ces compétences.
+        </string>
+            <string name="description">
+            Je suis une personne travailleuse avec compétence et
+            passion pour le développement d\'applications mobiles pour Android
+            dispositifs.Je suis à la recherche d\'une nouvelle opportunité qui
+            aidez-moi à développer davantage ces compétences.
+            </string>
+        <string name="name">Titilope Ajayi</string>
+    </resources>
