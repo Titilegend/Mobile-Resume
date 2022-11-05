@@ -1,6 +1,8 @@
 # Mobile-Resume app
 Project Title : Mobile Resume
+
 Software used: Android Studio
+
 Languages & Technologies: XML,Kotlin 
 
 This mobile resume is a task given to me by HNG Internship. It is the mobile version  of my resume
